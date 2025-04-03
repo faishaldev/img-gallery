@@ -1,3 +1,3 @@
 # img-gallery
 
-https://musshal.github.io/img-gallery/
+https://faishaldev.github.io/img-gallery/
